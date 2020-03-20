@@ -23,3 +23,16 @@ access modifier(public) - who can see?
 static - No instance of class is needed
 
 object - instance of a class
+
+variable - stores some value
+
+expression - evaluates to a value
+
+operator - work on operands to produce a value
+
+operand - the things the operator works on
+
+literals - the value (what's in the quotation marks 双引号里的)
+
+data type - the type of the data. i.e. how the computer interprets the data
+            eg. 5 is int, "5" is a String, '5' is a char
