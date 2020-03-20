@@ -22,7 +22,7 @@ access modifier(public) - who can see?
 
 static - No instance of class is needed
 
-object - instance of a class
+object - instance of a class (class the data type)
 
 variable - stores some value
 
