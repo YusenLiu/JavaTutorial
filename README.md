@@ -34,5 +34,7 @@ operand - the things the operator works on
 
 literals - the value (what's in the quotation marks 双引号里的)
 
+primitive types - the most basic data types available within the Java language. There are 8: boolean, byte, char, short, int, long, float and double
+
 data type - the type of the data. i.e. how the computer interprets the data
             eg. 5 is int, "5" is a String, '5' is a char
